@@ -223,7 +223,9 @@ path.closeSubpath()
 
 ## 八、程式碼
 
-主要程式位於 [`68/ContentView.swift`](68/ContentView.swift)。
+主要程式位於專案資料夾中的 `68/ContentView.swift`。
+
+在 GitHub 儲存庫首頁依序開啟 `68` 資料夾，再選擇 `ContentView.swift`，即可查看完整 SwiftUI 程式碼。若上傳時已將內層 `68` 資料夾的內容直接放到儲存庫根目錄，則直接開啟根目錄中的 `ContentView.swift`。
 
 ## 授權與用途
 
